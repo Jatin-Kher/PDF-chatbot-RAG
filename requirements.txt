@@ -50,3 +50,5 @@ streamlit
 
 tqdm
 requests
+torch
+torchvision 
